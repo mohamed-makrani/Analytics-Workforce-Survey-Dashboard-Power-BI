@@ -30,7 +30,7 @@ Below is a screenshot of the Power BI dashboard:
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🤝 Contributions
 
