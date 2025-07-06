@@ -23,7 +23,7 @@ The dashboard reveals that:
 
 Below is a screenshot of the Power BI dashboard:
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 > 📌 This visual includes key KPIs, salary distributions, favorite languages, and gender-based metrics.
 
